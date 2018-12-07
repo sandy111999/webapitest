@@ -1,0 +1,12 @@
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\bin\Release\employeeDataAccess.dll.config
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\bin\Release\employeeDataAccess.dll
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\bin\Release\employeeDataAccess.pdb
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\bin\Release\EntityFramework.dll
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\bin\Release\EntityFramework.SqlServer.dll
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\bin\Release\EntityFramework.xml
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\bin\Release\EntityFramework.SqlServer.xml
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\obj\Release\employeeDataAccess.csprojAssemblyReference.cache
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\obj\Release\employeeDataAccess.csproj.CoreCompileInputs.cache
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\obj\Release\employeeDataAccess.csproj.CopyComplete
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\obj\Release\employeeDataAccess.dll
+D:\SEM-V\New folder\WebApitest\employeeDataAccess\obj\Release\employeeDataAccess.pdb
